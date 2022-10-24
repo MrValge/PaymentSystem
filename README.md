@@ -7,4 +7,6 @@ The ecosystem consists of author created smart contracts, OpenZeppelin contracts
 
 "PaymentSystem.sol" is the main contract of the ecosystem, written by the author.
 "LivePrice.sol" is a slightly customized helper contract for accessing ChainLink price feeds on the "PaymentSystem.sol" contract.
-"FullCodeFileOfPaymentSystem.sol" is the combined contract of all modular smart contracts used for the ecosystem. This file was used for deployment on xDai mainnet.[Bachelor_Thesis_Johan_Valge.pdf](https://github.com/MrValge/PaymentSystem/files/9851620/Bachelor_Thesis_Johan_Valge.pdf)
+"FullCodeFileOfPaymentSystem.sol" is the combined contract of all modular smart contracts used for the ecosystem. This file was used for deployment on xDai mainnet.
+
+[Bachelor_Thesis_Johan_Valge.pdf](https://github.com/MrValge/PaymentSystem/files/9851620/Bachelor_Thesis_Johan_Valge.pdf)
