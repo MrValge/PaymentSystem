@@ -13,5 +13,7 @@ The ecosystem consists of author created smart contracts, OpenZeppelin contracts
 
 "FullCodeFileOfPaymentSystem.sol" is the combined contract of all modular smart contracts used for the ecosystem. This file was used for deployment on xDai mainnet.
 
+https://blockscout.com/xdai/mainnet/address/0x499DbfEAa1a3F11f7B2BfC5FdBe8ACF85783c30A
+
 
 [Bachelor_Thesis_Johan_Valge.pdf](https://github.com/MrValge/PaymentSystem/files/9851620/Bachelor_Thesis_Johan_Valge.pdf)
